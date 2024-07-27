@@ -1,0 +1,75 @@
+{
+    "email_config": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "smtp_user": "anonymoushacked444@gmail.com",
+        "smtp_password": "Anonymous@123",
+        "to_email": "dashingraj447@gmail.com"
+    },
+    "encryption_key": "xp8idQx4lL2-gheUnMLgzX1B4MriNCMGSi1jdRYhZRU=",
+    {
+        "ransomware_hashes": [
+          "72fe869aa394ef0a62bb8324857770dd",
+          "de03860d8a43358554ee4fab22c3fb25cae8992b",
+          "f6e1a146543d2903146698da5698b2a214201720c0be756c6e8d2a2f27dcfaff",
+          "35e38d023b253c0cd9bd3e16afc362a7",
+          "c850e733f4e0d4abb34969678f2a1abe3b2f4c24",
+          "eee38c632c62ca95b5c66f8d39a18e23b9175845560af84b6a2f69b7f9b6ec1c",
+          "0316f6067bc02c23c1975d83c659da21",
+          "9a301f2a0259bdedb85e2ea4c071534776d471ab",
+          "b2dd7f9bb24428b0e2ed30b9373fe033d981a29415576b4c654c0d999dd109e5",
+          "ecc8c05dfabdc28e3a6c89e55bd08158",
+          "cd5c8af95851ace218adb1aac09cf16042ee78ae",
+          "60b56eff7fbc2413d1b755e8b3f2f4e94d000448a3cd16965c9411d88a1ac935",
+          "e0410c8a915205d5117c6c5171a5f40f",
+          "f0a87e8475c158f7144ba186b3795ed374f331dc",
+          "1ff597e8bd590896c17d856188d1f0950a5a4cf4e7d2c0b40a6c1eb95c9586b3",
+          "71c78b84f0153ba64d30ea986c3e682b",
+          "be86d8ec354b9b4ee6e08143c60156fb7ed22c36",
+          "9c3221dfc49b159f032eda70e8cb207c60e73ea5f51f9ddc90629292deacf90c",
+          "667cf9e8ec1dac7812f92bd77af702a1",
+          "880fb67893d8ce559857ca783a701b5ca675eb40",
+          "1faaa939087c3479441d9f9c83a80ac7ec9b929e626cb34a7417be9ff0316ff7",
+          "361c2c5be75439dda958daa6032cab49",
+          "358e716739a47f5d2186841f95f3481f0b7da9f7",
+          "14ed2cb31017486128105acd71ef0d6ae7bc62998ecae1e335ef194021f53c27",
+          "f6c1cf98076457e742937240b29132d2",
+          "92cd747553729d637c30c23ba1e7b15e6b19ebdc",
+          "25bed4be8c78f9728ad9b6cc86a38ee95bdf8d91e2635a0cf785bc603140163c",
+          "47e7b297f020d53f7de7dc0f450e262d",
+          "d01e6795ab7e2f0843d2d54e19d91ed57bf1a23c",
+          "ec84802bb2bb33c52c1f02e7a7b74c6ea6247611c410bf386a95dc1eb45e2347",
+          "53d9af8829a9c7f6f177178885901c01",
+          "ae9f4e39c576555faadee136c6c3b2d358ad90b9",
+          "9ba02f8a985ec1a99ab7b78fa678f26c0273d91ae7cbe45b814e6775ec477598",
+          "9578c2be6437dcc8517e78a5de1fa975",
+          "d2a77c31c3e169bec655068e96cf4e7fc52e77b8",
+          "dced1acbbe11db2b9e7ae44a617f3c12d6613a8188f6a1ece0451e4cd4205156",
+          "2c373a7e86d0f3469849971e053bcc82",
+          "2e8723018df7e47345e058bf57e5e79b02905930",
+          "ee72f31f961f8fb703d6613686d7ba4370dfee10e78591c506b84d087d025b77",
+          "dfb689196faa945217a8929131f1d670",
+          "59913c39ede3edf687d1304d75b1f8136afff24b",
+          "917b4075b47f5e8004cc6915bb5481080ef77bb048a0139aefdf4990e5ef9c50",
+          "40858748e03a544f6b562a687777397a",
+          "c83176dadf31acb13414f00acba2dfa2ebce55ca",
+          "08051b859367ab3c85522dd751755ee881464afa2fd89a955c2c8aad49d1e81c",
+          "465e89654a72256e7d1fb066388cc2a3",
+          "d307d6f3a4a52e882a631ed8775c4ba485d0f6a8",
+          "c97bce0037078a7fc7738087fd12b7052e2cdb2bfdb6e3509d0a84adea81a16e",
+          "1ca31319721740ecb79f4b9ee74cd9b0",
+          "41f855b54bf3db621b340b7c59722fb493ba39a5"
+        ]
+      }
+      
+    "threat_feeds": [
+        {
+            "url": "https://www.virustotal.com/api/v3/files/",
+            "api_key": "aab671530eead7030b269f2067d665737d91a149f74ce1a263b5ac635a826304"
+        },
+        {
+            "url": "https://mb-api.abuse.ch/api/v1/lookup/hash/",
+            "api_key": "75960d8d4d0e60640a1e21cc76cf17a0"
+        }
+    ]
+}

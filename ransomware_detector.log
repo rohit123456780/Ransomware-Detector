@@ -1,0 +1,383 @@
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\c343c711-6b55-43c0-b078-43567eb860a8.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\c343c711-6b55-43c0-b078-43567eb860a8.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7b57504.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7b57581.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\227b72a0-d953-4607-965b-9c40e2097a78.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\227b72a0-d953-4607-965b-9c40e2097a78.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7b576c9.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7b576c9.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\5f5178d8-e622-451e-adf7-d2dbd025a255.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\5f5178d8-e622-451e-adf7-d2dbd025a255.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\185fdbad-d69d-4182-9ae9-90db8853a0ba.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\185fdbad-d69d-4182-9ae9-90db8853a0ba.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7b5c391.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7b5c391.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\7fbf1be5-f832-46c9-900d-26aea101b631.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\7fbf1be5-f832-46c9-900d-26aea101b631.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\e913c703-51b8-46c5-a482-5030edf5dc88.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\e913c703-51b8-46c5-a482-5030edf5dc88.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b5e8cd.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b5e8cd.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG.old~RF7b5eb5d.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_docs.google.com_0.indexeddb.leveldb\\LOG.old~RF7b5eb5d.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG, Hash: c0a6493c8faa6310d9a888670a46581a9ceb8dbc7be097b1f512bb597f779398
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\98e43a90-8182-40b1-8a50-1831bec159f5.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\d0981505-812d-4ca9-aa01-fa12c7ddfd90.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\d0981505-812d-4ca9-aa01-fa12c7ddfd90.tmp'
+ERROR:root:FileNotFoundError: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b5ffc0.TMP not found.
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b6002d.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b6009a.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b6009a.TMP'
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm, Hash: fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm, Hash: fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: cdebe10ed27ec89ad287de7e623d749369c1e469d2dd775625e2b6b7d56e76be
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm, Hash: 2328b6ddf93b849484549eca38e854e5818b0d16957cb5643d811dd8b8b25940
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\User\globalStorage\storage.json.vsctmp, Hash: f3a98d96f41c2f6dfd91760d80011587b9390cbeb950e06f061e9360c2216c31
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\c70678d6-1e0a-4655-b2f9-c062b5d6ad54.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\c70678d6-1e0a-4655-b2f9-c062b5d6ad54.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7b625d6.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7b625d6.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\324e3230-ae08-4f9e-a77a-8a00ed13089c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\324e3230-ae08-4f9e-a77a-8a00ed13089c.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b63065.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b63065.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\temp-index'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF7b6318e.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\the-real-index~RF7b6318e.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\681149d4-483e-48d3-999a-0c4a723a32ed.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\681149d4-483e-48d3-999a-0c4a723a32ed.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b66158.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b66158.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\3ea6aa64-f6eb-447d-bd71-835d20becf4c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\3ea6aa64-f6eb-447d-bd71-835d20becf4c.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b66c54.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b66c54.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f9857cad-2ff4-4c6f-9c95-829880c91692.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\f9857cad-2ff4-4c6f-9c95-829880c91692.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b6946e.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b6946e.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\1e491ba9-751b-4fc2-8118-387f20d0b86a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\1e491ba9-751b-4fc2-8118-387f20d0b86a.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b6a007.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b6a007.TMP'
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:FileNotFoundError: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm not found.
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm, Hash: fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm, Hash: 5819950b6f587092ca1fdc098fe44ce052f4ce2f1596447fe02c7788e525a1a7
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\0a89bc29-bf7b-44fc-af7c-35844856989a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\0a89bc29-bf7b-44fc-af7c-35844856989a.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b6d34c.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b6d34c.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\092f7ebe-98c1-4364-835a-054b974387e8.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\092f7ebe-98c1-4364-835a-054b974387e8.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b6d9c4.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b6d9c4.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\5817d846-b73a-4296-9c91-19b3ba8f34d6.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\5817d846-b73a-4296-9c91-19b3ba8f34d6.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b73021.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b73021.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\1090fbd4-047d-4e52-ada2-d99dd3996c63.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\1090fbd4-047d-4e52-ada2-d99dd3996c63.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b7868e.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b7868e.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\8cb9b7dc-ad85-4d91-b0c6-c1fa106d310b.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\8cb9b7dc-ad85-4d91-b0c6-c1fa106d310b.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7b7a012.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7b7a012.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\31c6d026-22cc-484b-944f-2343c1dfd99f.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\31c6d026-22cc-484b-944f-2343c1dfd99f.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b7b1d5.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b7b1d5.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\bb1a2ffd-5057-42fa-8284-af94770d5bb1.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\bb1a2ffd-5057-42fa-8284-af94770d5bb1.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b7be0a.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7b7be0a.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\319669fa-2831-4be8-a5b6-512c2d7cbb93.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\319669fa-2831-4be8-a5b6-512c2d7cbb93.tmp'
+ERROR:root:FileNotFoundError: C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7b7d9cf.TMP not found.
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7b7da4c.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7b7da4c.TMP'
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:FileNotFoundError: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm not found.
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:FileNotFoundError: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm not found.
+INFO:root:File created: C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-wal, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\ProgramData\Tenable\Nessus\conf\nessus-fetch.db-shm: [Errno 13] Permission denied
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\58ec91f8-dd32-4441-8f09-6a4e9b3eff9a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\58ec91f8-dd32-4441-8f09-6a4e9b3eff9a.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\63ff613a-ff15-45ac-8d43-15ef78ceb33b.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\63ff613a-ff15-45ac-8d43-15ef78ceb33b.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b7f2e5.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b7f2e5.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7b7f304.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7b7f304.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\5ee15bd3-9fa4-472e-abe0-984096ecf95f.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\5ee15bd3-9fa4-472e-abe0-984096ecf95f.tmp'
+ERROR:root:FileNotFoundError: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b7f640.TMP not found.
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b7f6ae.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\c2dfdd92-b28a-4aa8-a7e4-5df82696dabb.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\c2dfdd92-b28a-4aa8-a7e4-5df82696dabb.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7b82f13.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7b82f13.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\7902fe6f-00e3-48ff-979f-8ddcfbdc70cd.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Microsoft\\Edge\\User Data\\7902fe6f-00e3-48ff-979f-8ddcfbdc70cd.tmp'
+ERROR:root:FileNotFoundError: C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Local State~RF7b874e6.TMP not found.
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\56512886-2658-4b1e-a88c-a34abff55c40.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\b53a717c-3669-41d8-b7b5-1f7ff1fa7114.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\b53a717c-3669-41d8-b7b5-1f7ff1fa7114.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7b88e1b.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7b88e1b.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\cd280ecb-2cc0-4d39-9aca-2c14fecaa649.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\cd280ecb-2cc0-4d39-9aca-2c14fecaa649.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7b8a80c.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\0b99879d-2e9f-4364-a513-a316fc0acefa.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\693f9c23-0831-46a0-a0d2-1da0b5c5929c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\693f9c23-0831-46a0-a0d2-1da0b5c5929c.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7bef43b.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7bef43b.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\99483bce-2c2a-492f-98bf-a500dee023c4.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\99483bce-2c2a-492f-98bf-a500dee023c4.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7bef748.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7bef748.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\c18369e1-2296-4d4d-a3f8-dad8df2b230c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\c18369e1-2296-4d4d-a3f8-dad8df2b230c.tmp'
+ERROR:root:FileNotFoundError: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7bf092a.TMP not found.
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7bf0997.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\c179d6aa-bd5d-4b0c-86af-ebc7b2547987.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\c179d6aa-bd5d-4b0c-86af-ebc7b2547987.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\eba81d86-1c17-45a4-b942-58b2f23f321d.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\eba81d86-1c17-45a4-b942-58b2f23f321d.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7bf107d.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7bf107d.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG.old~RF7bf131d.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_docs.google.com_0.indexeddb.leveldb\\LOG.old~RF7bf131d.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG, Hash: 6acb2666a1519c77c43b3f9ecae67393a8368128bc8aa9cfc78ad631b0075d92
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\32785a3b-051e-41c1-903b-c360a7bc691c.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb\LOG.old~RF7bf1465.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_drive.google.com_0.indexeddb.leveldb\\LOG.old~RF7bf1465.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb\LOG, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\ba910504-700f-41c8-95da-3c0192ad69b2.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\ba910504-700f-41c8-95da-3c0192ad69b2.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\bca9272f-a579-4bf8-9398-605d08a9b682.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\5c6920cd-2fa1-4cfd-a6cb-91f1d5531c96.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\5c6920cd-2fa1-4cfd-a6cb-91f1d5531c96.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7bf301b.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7bf301b.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\9cf66942-3728-40c6-924a-4c07c0ace61e.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\9cf66942-3728-40c6-924a-4c07c0ace61e.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7bf3db7.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7bf3db7.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\temp-index'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF7bf594e.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\the-real-index~RF7bf594e.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f4ddf554-4e7b-48ef-b968-03abbc5559b0.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\f4ddf554-4e7b-48ef-b968-03abbc5559b0.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7bf9adb.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7bf9adb.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\bc9fd18d-08fa-4f93-aeb2-60ba50ef888a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\bc9fd18d-08fa-4f93-aeb2-60ba50ef888a.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7bfc3a0.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7bfc3a0.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\314a975f-7def-4189-aed4-9efddc6c9753.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\314a975f-7def-4189-aed4-9efddc6c9753.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7bff3c8.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7bff3c8.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\d0bb1737-f188-499b-a72d-9b33c27cb27b.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\d0bb1737-f188-499b-a72d-9b33c27cb27b.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7bffb3b.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7bffb3b.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Microsoft\Windows\INetCache\IE\NC594WMU\serverconfig16[1].xml, Hash: 6477e05e86090d9e0e77ab1f5b346a700718ef179ca637495668a6dacdbb51a8
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\fcd3a41e-eb55-4b49-8e59-ef323f3b4967.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\fcd3a41e-eb55-4b49-8e59-ef323f3b4967.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c05dbd.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c05dbd.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Microsoft\Windows\Recent\ransomware_detector (2).lnk, Hash: cc633be542d245af31f5c3d528c4a378ade501ea54b75cd9f4212c44f53e14d0
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Microsoft\Windows\Recent\logs.lnk, Hash: a6d10bdced429885adf86263cfa6074916cabf26a96212a0e75be9f088d70c02
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState\b8519607-08ca-41dc-b51a-9d3f13d70c01.bin.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Packages\\Microsoft.WindowsNotepad_8wekyb3d8bbwe\\LocalState\\TabState\\b8519607-08ca-41dc-b51a-9d3f13d70c01.bin.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState\b8519607-08ca-41dc-b51a-9d3f13d70c01.bin.tmp, Hash: 78d7710499bd690285868c7076548c4784e6a9a70ac9d79d0e976ea7cfd95627
+INFO:root:File created: C:\Users\dashi\AppData\Local\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState\bdf895f0-45c0-4695-b446-2c0c70a2427b.bin.tmp, Hash: d797b342a195aa4ed17659de141512891c8c62625c5e9cc4c23d608b01a42c11
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Microsoft\Windows\Recent\requirements.lnk, Hash: db4426e429c89bbad83058af85463a49c65140bbcb3df36d9e3dd9eb0ffe76c7
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Microsoft\Windows\Recent\Ransomware detector for coded cubicle 2.0.lnk, Hash: eabc6a6d89bd6a72466538ae1e1e0f8d684d756a32d54b32d999b419199c6d14
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\dfae8272-c163-4446-83f4-c188e07cfaca.tmp, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\b24297ab-1a93-4467-adcd-f6d6a6569343.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\b24297ab-1a93-4467-adcd-f6d6a6569343.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c0cd60.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c0cd60.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\d6f5950e-a17b-4b0b-9a74-deb8bf3a9e2c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\d6f5950e-a17b-4b0b-9a74-deb8bf3a9e2c.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c0de77.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c0de77.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\19d8a294-baab-4e9b-a4cc-36e4b98cd46c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\19d8a294-baab-4e9b-a4cc-36e4b98cd46c.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c0e55c.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c0e55c.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Sessions\Apps_13366498592998868: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Sessions\\Apps_13366498592998868'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\c4dcd309-6cef-423e-bc77-358b5f713db6.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\c4dcd309-6cef-423e-bc77-358b5f713db6.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\554af7f6-e879-4f9b-b3dc-95b0f2490e8e.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\554af7f6-e879-4f9b-b3dc-95b0f2490e8e.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c1c8f6.TMP, Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c1c963.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c1c963.TMP'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\a72da948-3b31-4c3b-b471-f6ad0390c40d.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\a72da948-3b31-4c3b-b471-f6ad0390c40d.tmp'
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c1cfcc.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c1cfcc.TMP'
+INFO:root:Started monitoring C:\Users
+INFO:root:Monitoring...
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\897060e3-1245-4836-bc7d-466e3909f8fd.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\897060e3-1245-4836-bc7d-466e3909f8fd.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\897060e3-1245-4836-bc7d-466e3909f8fd.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\3b74e692-24f8-4add-a40f-5870eb0e3527.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\3b74e692-24f8-4add-a40f-5870eb0e3527.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\3b74e692-24f8-4add-a40f-5870eb0e3527.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c2a8f6.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c2a8f6.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7c2a8f6.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\387499b9-0593-44a6-a59e-701909c48954.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\387499b9-0593-44a6-a59e-701909c48954.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\387499b9-0593-44a6-a59e-701909c48954.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c2ba3b.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c2ba3b.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c2ba3b.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\35883596-7c20-45e7-a5d8-2aaaf87f8533.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\35883596-7c20-45e7-a5d8-2aaaf87f8533.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\35883596-7c20-45e7-a5d8-2aaaf87f8533.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c2bde5.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c2bde5.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c2bde5.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\50de7498-abf5-4951-b30b-dc4647c8a640.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\50de7498-abf5-4951-b30b-dc4647c8a640.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\50de7498-abf5-4951-b30b-dc4647c8a640.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\de65e563-1c22-4e43-93af-56cf32841a03.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\de65e563-1c22-4e43-93af-56cf32841a03.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\de65e563-1c22-4e43-93af-56cf32841a03.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c301e3.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c301e3.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c301e3.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c301e3.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c301e3.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c301e3.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\8fa43591-6ed1-4a1b-ae96-9cd13e15befb.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\8fa43591-6ed1-4a1b-ae96-9cd13e15befb.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\8fa43591-6ed1-4a1b-ae96-9cd13e15befb.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c30946.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c30946.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c30946.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\f5d1d380-82d6-40de-834c-040c9377ca16.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\f5d1d380-82d6-40de-834c-040c9377ca16.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\f5d1d380-82d6-40de-834c-040c9377ca16.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c33df2.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c33df2.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c33df2.TMP'
+INFO:root:Monitoring...
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\64358d1a-ea97-4a7e-acec-ba959ba35f6b.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\64358d1a-ea97-4a7e-acec-ba959ba35f6b.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\64358d1a-ea97-4a7e-acec-ba959ba35f6b.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\13d1a5c6-682f-4aa8-be4c-5f33dfc7cf9e.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\13d1a5c6-682f-4aa8-be4c-5f33dfc7cf9e.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\13d1a5c6-682f-4aa8-be4c-5f33dfc7cf9e.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\5f707969-c75b-428b-9abe-2423c40ac1c4.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\5f707969-c75b-428b-9abe-2423c40ac1c4.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\5f707969-c75b-428b-9abe-2423c40ac1c4.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c3a4bb.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c3a4bb.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c3a4bb.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG.old~RF7c3a70c.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG.old~RF7c3a70c.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\IndexedDB\\https_docs.google.com_0.indexeddb.leveldb\\LOG.old~RF7c3a70c.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\LOG
+INFO:root:File hash: 7ac147cc5127aeb7cb2e087454f6be0d31adf332bcbdac0764c2a4d55edf02c6
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\dd7a39c7-777d-4832-b7ea-74cc149b6cb9.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\dd7a39c7-777d-4832-b7ea-74cc149b6cb9.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\dd7a39c7-777d-4832-b7ea-74cc149b6cb9.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\39a888f3-05aa-4e3f-98df-f9780308cff9.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\39a888f3-05aa-4e3f-98df-f9780308cff9.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\39a888f3-05aa-4e3f-98df-f9780308cff9.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c3c61e.TMP
+INFO:root:File hash: b71538be780b321fa6eaa75fc614ff836aef53ac2e2b83b0120c83edec83bac2
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\9aff0071-4763-4380-a7a8-80025a00c849.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\9aff0071-4763-4380-a7a8-80025a00c849.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\9aff0071-4763-4380-a7a8-80025a00c849.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\temp-index'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF7c3ed3d.TMP
+INFO:root:File hash: bcd111f93de4433c4cff67993a7fe7f7963e89895c3e89f5766277ad6b6686e0
+INFO:root:File created: C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Network\f4ab3da1-6f57-4007-8789-125c8580bb43.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Network\f4ab3da1-6f57-4007-8789-125c8580bb43.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Network\\f4ab3da1-6f57-4007-8789-125c8580bb43.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Network\TransportSecurity~RF7c3f329.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Network\TransportSecurity~RF7c3f329.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Network\\TransportSecurity~RF7c3f329.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f53cf65e-4e07-4756-af0a-490cc50396eb.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f53cf65e-4e07-4756-af0a-490cc50396eb.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\f53cf65e-4e07-4756-af0a-490cc50396eb.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c3fb08.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c3fb08.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c3fb08.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index-dir\temp-index
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Code Cache\\wasm\\index-dir\\temp-index'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index-dir\the-real-index~RF7c41641.TMP
+INFO:root:File hash: b37619f4e69a9d8351d7e43b54c5a10a67e2882a342bab0baf8b393b9620e765
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\8dd8a70f-1764-478b-9b78-8ff362d82343.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\8dd8a70f-1764-478b-9b78-8ff362d82343.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\8dd8a70f-1764-478b-9b78-8ff362d82343.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c41845.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c41845.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c41845.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\3b3ce724-6e58-4614-bd7b-fbef42cc2c2e.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\3b3ce724-6e58-4614-bd7b-fbef42cc2c2e.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\3b3ce724-6e58-4614-bd7b-fbef42cc2c2e.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c42eca.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c42eca.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c42eca.TMP'
+INFO:root:Monitoring...
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\fd363693-59fd-4c7a-9e8f-f828813d7bbf.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\fd363693-59fd-4c7a-9e8f-f828813d7bbf.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\fd363693-59fd-4c7a-9e8f-f828813d7bbf.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c4c221.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c4c221.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c4c221.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\7eab82c1-a75c-43f7-9dfd-183065afade1.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\7eab82c1-a75c-43f7-9dfd-183065afade1.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\7eab82c1-a75c-43f7-9dfd-183065afade1.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c4cc14.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c4cc14.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7c4cc14.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\db550083-c931-48b0-93d1-a804aeeb0cbd.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\db550083-c931-48b0-93d1-a804aeeb0cbd.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\db550083-c931-48b0-93d1-a804aeeb0cbd.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c52c45.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c52c45.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c52c45.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\55ffbc8f-4b2c-4bb1-91f3-bd69f839487a.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\55ffbc8f-4b2c-4bb1-91f3-bd69f839487a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\55ffbc8f-4b2c-4bb1-91f3-bd69f839487a.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\36e6bbac-3bff-4235-bfbb-91018c2e6eca.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\36e6bbac-3bff-4235-bfbb-91018c2e6eca.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\36e6bbac-3bff-4235-bfbb-91018c2e6eca.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\527bf28f-37ef-4a3a-8ad9-30366e3ad1e1.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\527bf28f-37ef-4a3a-8ad9-30366e3ad1e1.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\527bf28f-37ef-4a3a-8ad9-30366e3ad1e1.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c571ab.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c571ab.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c571ab.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\77653d0c-4c13-4d56-bd47-5f990fb9340c.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\77653d0c-4c13-4d56-bd47-5f990fb9340c.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\77653d0c-4c13-4d56-bd47-5f990fb9340c.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c57573.TMP
+INFO:root:File hash: b1d1886006fd8112e27576f99d0b0dd147f2bc5f0f1aa34bf1844a70efb78f01
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\c1c07724-fe54-41e8-8a5f-001d81ac1d5f.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\c1c07724-fe54-41e8-8a5f-001d81ac1d5f.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\c1c07724-fe54-41e8-8a5f-001d81ac1d5f.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c5793c.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c5793c.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c5793c.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c579aa.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c579aa.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c579aa.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\242cab14-c9bb-43ba-94c6-ae2e77e47ae2.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\242cab14-c9bb-43ba-94c6-ae2e77e47ae2.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\242cab14-c9bb-43ba-94c6-ae2e77e47ae2.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c58552.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c58552.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c58552.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\522c3966-6f2c-4a24-a5e2-e5ebf8256241.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\522c3966-6f2c-4a24-a5e2-e5ebf8256241.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\522c3966-6f2c-4a24-a5e2-e5ebf8256241.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c59e68.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c59e68.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c59e68.TMP'
+INFO:root:Monitoring...
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\temp-index: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\temp-index'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF7c5ac62.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir\the-real-index~RF7c5ac62.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache\\js\\index-dir\\the-real-index~RF7c5ac62.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\e663fa85-a9b6-41f2-b998-2ac554f0a2c6.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\e663fa85-a9b6-41f2-b998-2ac554f0a2c6.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\e663fa85-a9b6-41f2-b998-2ac554f0a2c6.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c5ac72.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c5ac72.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c5ac72.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal
+INFO:root:File hash: a7bf6a8166c5e2121dc9d78e808381d041943a741c8460d9ca54fb0f358767ac
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\User\workspaceStorage\1722020740458\state.vscdb-journal
+INFO:root:File hash: dd3be9a00b022ebed33f0a52cc067db623d4a52273432d63e549a0ab996a1b38
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\User\workspaceStorage\1722020740458\state.vscdb-journal
+INFO:root:File hash: 803885bfe16cc57d7e365d483f5390a4476c7d5eb433d12d2c7d4fcd53657d99
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\2d70db34-66f0-4a7a-b662-384611c1420b.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\2d70db34-66f0-4a7a-b662-384611c1420b.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\2d70db34-66f0-4a7a-b662-384611c1420b.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c5e65e.TMP
+INFO:root:File hash: 4e905e0ba663c6d0a04ebbd836fbb559a67a892d5f9d7ac2af0f78fafe9298d0
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\78d1c009-90cd-4c56-964c-c980cd4fd6b3.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\78d1c009-90cd-4c56-964c-c980cd4fd6b3.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\78d1c009-90cd-4c56-964c-c980cd4fd6b3.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c60fa0.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Local State~RF7c60fa0.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Local State~RF7c60fa0.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\3f3beb50-7099-4873-9d85-ca7885a2250a.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\3f3beb50-7099-4873-9d85-ca7885a2250a.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\3f3beb50-7099-4873-9d85-ca7885a2250a.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c61108.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c61108.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c61108.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Temp\a934a8ad-cc52-499a-b6a7-2f255674a960.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Temp\a934a8ad-cc52-499a-b6a7-2f255674a960.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Temp\\a934a8ad-cc52-499a-b6a7-2f255674a960.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\cffd7c7e-9863-4571-b441-46936094ae56.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\cffd7c7e-9863-4571-b441-46936094ae56.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\cffd7c7e-9863-4571-b441-46936094ae56.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c645e3.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Preferences~RF7c645e3.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences~RF7c645e3.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\5a3852cc-f72a-42e5-9636-a5d02a616283.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\5a3852cc-f72a-42e5-9636-a5d02a616283.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\5a3852cc-f72a-42e5-9636-a5d02a616283.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c663cb.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\TransportSecurity~RF7c663cb.TMP: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\TransportSecurity~RF7c663cb.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\07fed1b6-bcea-4364-a8c4-27de97bd63d0.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\07fed1b6-bcea-4364-a8c4-27de97bd63d0.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\07fed1b6-bcea-4364-a8c4-27de97bd63d0.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c66552.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c66552.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c66552.TMP'
+INFO:root:Monitoring...
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f6ed264d-d80a-463c-9c88-5b1f6daf09e7.tmp
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\f6ed264d-d80a-463c-9c88-5b1f6daf09e7.tmp: [Errno 13] Permission denied: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\f6ed264d-d80a-463c-9c88-5b1f6daf09e7.tmp'
+INFO:root:File created: C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c99491.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Local\Google\Chrome\User Data\Default\Network\Network Persistent State~RF7c99491.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Network Persistent State~RF7c99491.TMP'
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\8f5bb3a8-0683-4f0e-befe-84faf9988dec.tmp
+INFO:root:File hash: d7457af4a398c0a20e4d16c20a565ca5c71408585d01ccd313c367ed6a83d992
+INFO:root:File created: C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c9a0f5.TMP
+ERROR:root:Error calculating hash for C:\Users\dashi\AppData\Roaming\Code\Network\TransportSecurity~RF7c9a0f5.TMP: [Errno 2] No such file or directory: 'C:\\Users\\dashi\\AppData\\Roaming\\Code\\Network\\TransportSecurity~RF7c9a0f5.TMP'
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-893-609
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:07:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:07:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:07:57] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:08:12] "GET /stop HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:08:12] "GET /status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-893-609
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:09:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:09:10] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:09:23] "GET /stop HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 02:09:23] "GET /status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:21:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:21:10] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:24:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:24:09] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:24:17] "GET /stop HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:24:17] "GET /status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:28:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:28:41] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:28:46] "GET /stop HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 16:28:46] "GET /status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 17:25:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 17:25:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2024 17:25:06] "GET /start HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\dashi\\OneDrive\\Documents\\Ransomware detector from F society\\encryption_key.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug: * Detected change in 'C:\\Users\\dashi\\OneDrive\\Documents\\Ransomware detector from F society\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
+INFO:werkzeug: * Detected change in 'C:\\Users\\dashi\\OneDrive\\Documents\\Ransomware detector from F society\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 442-570-569
